@@ -1,0 +1,35 @@
+package done.tech.home.mobile.ui.theme.tokens
+
+import androidx.compose.ui.graphics.Color
+
+internal object AppColorTokens {
+    val Background = Color(0xFF191C1E)
+    val Error = Color(0xFFFFB4AA)
+    val ErrorContainer = Color(0xFF930009)
+    val InverseOnSurface = Color(0xFF191C1E)
+    val InversePrimary = Color(0xFF0061A6)
+    val InverseSurface = Color(0xFFE1E2E5)
+    val OnBackground = Color(0xFFE1E2E5)
+    val OnError = Color(0xFF690004)
+    val OnErrorContainer = Color(0xFFFFDAD5)
+    val OnPrimary = Color(0xFF003259)
+    val OnPrimaryContainer = Color(0xFFD2E4FF)
+    val OnSecondary = Color(0xFF670500)
+    val OnSecondaryContainer = Color(0xFFFFDAD4)
+    val OnSurface = Color(0xFFC5C6C9)
+    val OnSurfaceVariant = Color(0xFFC0C7CD)
+    val OnTertiary = Color(0xFF003732)
+    val OnTertiaryContainer = Color(0xFF73F8E7)
+    val Border = Color(0xFFE6E9EB)
+    val BorderVariant = Color(0xFF40484C)
+    val Primary = Color(0xFFA0CAFF)
+    val PrimaryContainer = Color(0xFF00497E)
+    val Scrim = Color(0xFF000000)
+    val Secondary = Color(0xFFFFB4A7)
+    val SecondaryContainer = Color(0xFF881E10)
+    val Surface = Color(0xFF111415)
+    val SurfaceTint = Color(0xFFA0CAFF)
+    val SurfaceVariant = Color(0xFF40484C)
+    val Tertiary = Color(0xFF52DBCB)
+    val TertiaryContainer = Color(0xFF005049)
+}
